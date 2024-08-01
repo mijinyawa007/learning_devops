@@ -1,0 +1,6 @@
+#!/bin/bash
+
+FULLNAME= NATHANIEL
+SURNAME= SAMUEL
+echo $FULLNAME
+echo $SURNAME
